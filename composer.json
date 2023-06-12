@@ -1,4 +1,5 @@
 {
+    "name": "netzfabrik/netzfabrik-php-api",
     "description": "PHP SDK for NETZFABRIK API",
     "keywords": [
         "netzfabrik",
