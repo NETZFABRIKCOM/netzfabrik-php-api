@@ -1,0 +1,11 @@
+# # AccountAccountReadCustomer
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | **string** |  | [optional] [readonly]
+**name** | **string** | The name of the customer | [readonly]
+**customerNumber** | **string** |  | [optional] [readonly]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)
